@@ -1,4 +1,4 @@
-# probka-laravel-blog
+# laravel-blog
 
 Wstępny projekt bloga w oparciu o framework Laravel.
   - baza danych MySQL,
